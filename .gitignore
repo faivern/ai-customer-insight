@@ -2,6 +2,9 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+report.md
+*.md.report
+out/
 .env
 .env.*
 .venv/
